@@ -1,0 +1,112 @@
+{
+    "teams": [
+      {
+        "logo": "/wp-content/themes/squiggle/assets/images/Adelaide.png",
+        "name": "Adelaide",
+        "abbrev": "ADE",
+        "id": 1
+      },
+      {
+        "name": "Brisbane Lions",
+        "logo": "/wp-content/themes/squiggle/assets/images/Brisbane.png",
+        "id": 2,
+        "abbrev": "BRI"
+      },
+      {
+        "logo": "/wp-content/themes/squiggle/assets/images/Carlton.png",
+        "name": "Carlton",
+        "id": 3,
+        "abbrev": "CAR"
+      },
+      {
+        "name": "Collingwood",
+        "logo": "/wp-content/themes/squiggle/assets/images/Collingwood.png",
+        "id": 4,
+        "abbrev": "COL"
+      },
+      {
+        "id": 5,
+        "abbrev": "ESS",
+        "logo": "/wp-content/themes/squiggle/assets/images/Essendon.png",
+        "name": "Essendon"
+      },
+      {
+        "abbrev": "FRE",
+        "id": 6,
+        "logo": "/wp-content/themes/squiggle/assets/images/Fremantle.png",
+        "name": "Fremantle"
+      },
+      {
+        "id": 7,
+        "abbrev": "GEE",
+        "name": "Geelong",
+        "logo": "/wp-content/themes/squiggle/assets/images/Geelong.png"
+      },
+      {
+        "id": 8,
+        "abbrev": "GC",
+        "name": "Gold Coast",
+        "logo": "/wp-content/themes/squiggle/assets/images/GoldCoast.png"
+      },
+      {
+        "name": "Greater Western Sydney",
+        "logo": "/wp-content/themes/squiggle/assets/images/Giants.png",
+        "id": 9,
+        "abbrev": "GWS"
+      },
+      {
+        "id": 10,
+        "abbrev": "HAW",
+        "name": "Hawthorn",
+        "logo": "/wp-content/themes/squiggle/assets/images/Hawthorn.png"
+      },
+      {
+        "abbrev": "MEL",
+        "id": 11,
+        "name": "Melbourne",
+        "logo": "/wp-content/themes/squiggle/assets/images/Melbourne.png"
+      },
+      {
+        "name": "North Melbourne",
+        "logo": "/wp-content/themes/squiggle/assets/images/NorthMelbourne.png",
+        "id": 12,
+        "abbrev": "NOR"
+      },
+      {
+        "name": "Port Adelaide",
+        "logo": "/wp-content/themes/squiggle/assets/images/PortAdelaide.png",
+        "abbrev": "POR",
+        "id": 13
+      },
+      {
+        "logo": "/wp-content/themes/squiggle/assets/images/Richmond.png",
+        "name": "Richmond",
+        "id": 14,
+        "abbrev": "RIC"
+      },
+      {
+        "name": "St Kilda",
+        "logo": "/wp-content/themes/squiggle/assets/images/StKilda.png",
+        "abbrev": "STK",
+        "id": 15
+      },
+      {
+        "logo": "/wp-content/themes/squiggle/assets/images/Sydney.png",
+        "name": "Sydney",
+        "abbrev": "SYD",
+        "id": 16
+      },
+      {
+        "id": 17,
+        "abbrev": "WCE",
+        "name": "West Coast",
+        "logo": "/wp-content/themes/squiggle/assets/images/WestCoast.png"
+      },
+      {
+        "abbrev": "WBD",
+        "id": 18,
+        "logo": "/wp-content/themes/squiggle/assets/images/Bulldogs.png",
+        "name": "Western Bulldogs"
+      }
+    ]
+  }

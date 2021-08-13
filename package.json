@@ -1,6 +1,6 @@
 {
   "name": "bendigo_bank_devops_challenge",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Associate DevOps Engineer – Tech Challenge (2021)",
   "main": "index.js",
   "scripts": {

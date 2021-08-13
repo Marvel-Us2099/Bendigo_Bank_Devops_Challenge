@@ -1,0 +1,18 @@
+This project intended to provide the user with access to key information about the team they support, 
+delivering an in-depth breakdown of stats in a way that provides key insight into the users team as 
+well as rival teams. 
+
+
+Unfortunately due to Nodejs being a new endeavour for me, it took time to learn the basics, 
+and difficult to accomplish the feats I was striving for with this project in the time I had. 
+
+I would have liked to have been able to extract and filter queries from the JSON files of data, 
+to enable applicable data to be presented to the user (Ladder, Wins/losses tally, home game winns and away losses e.g.) 
+However, my inexperience heald me back. 
+
+I attempted to integrate a docker file, however that is new to me also, and as I work in 
+WSL (Windows Subsystem for Linux) version 1 there was a bit of work to convert my system to version 2 to enable docker to run. 
+I had docker mostly integrated into my project, but once again due to my inexperience with docker 
+I was unsure how to tie it off, so I removed the confusion.
+
+
