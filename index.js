@@ -1,10 +1,11 @@
 
 // Add documentation...
 
-// --- "npm run startAPI2" to start local server ---
-// --- or "nodemon nun startAPI2" for automatic server restart 
-// code added to package.json 
-// "startAPI2": "node test_nodejs_api2.js"
+//Developed using wsl (Windows Subsystem for Linux)
+
+// TO run application:
+// Change the working directory to "~/Bendigo_Bank_Devops_Challenge/"
+// run "nodemon nun startAPI" in the terminal for automatic server restart 
 
 
 ////Display time from module "module1.js"
@@ -24,8 +25,8 @@ http.createServer(function (req, res) {
     var titleGitHash = "Latest Git Commit: "
     var titleDateTime = "Current Date & Time: ";
 
-// Responces. 
-  res.writeHead(200, {'Content-Type': 'text/html'});
+
+
   res.write(titleName.bold() + pjson.name + " <br /> ");
   res.write(titleVersion.bold() + pjson.version + "<br />");
   res.write(titleGitHash.bold() + revision + "<br />");
