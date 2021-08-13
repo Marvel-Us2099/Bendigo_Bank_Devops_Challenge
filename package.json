@@ -1,0 +1,24 @@
+{
+  "name": "bendigo_bank_devops_challenge",
+  "version": "1.0.0",
+  "description": "Associate DevOps Engineer – Tech Challenge (2021)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startAPI": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marvel-Us2099/Bendigo_Bank_Devops_Challenge.git"
+  },
+  "author": "Darcy Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marvel-Us2099/Bendigo_Bank_Devops_Challenge/issues"
+  },
+  "homepage": "https://github.com/Marvel-Us2099/Bendigo_Bank_Devops_Challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
