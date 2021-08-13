@@ -1,6 +1,6 @@
 {
   "name": "bendigo_bank_devops_challenge",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Associate DevOps Engineer – Tech Challenge (2021)",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Marvel-Us2099/Bendigo_Bank_Devops_Challenge#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "semver": "^7.3.5"
   }
 }

@@ -12,7 +12,13 @@ var http = require('http');
 var dt = require('./module1');
 
 http.createServer(function (req, res) {
+    var titleName = "Application Name: ";
+    var titleVersion = "Version: ";
+    var titleDateTime = "Current date and time: ";
+    var pjson = require('./package.json');
+
   res.writeHead(200, {'Content-Type': 'text/html'});
-  res.write("The date and time are currently: " + dt.myDateTime());
+  res.write(titleName.bold() + pjson.name + " <br /> " + titleVersion.bold() + pjson.version + "<br />")
+  res.write(titleDateTime.bold() + dt.myDateTime());
   res.end();
 }).listen(8080);
