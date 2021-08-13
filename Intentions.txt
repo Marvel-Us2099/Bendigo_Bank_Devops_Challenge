@@ -2,12 +2,11 @@ This project intended to provide the user with access to key information about t
 delivering an in-depth breakdown of stats in a way that provides key insight into the users team as 
 well as rival teams. 
 
-
 Unfortunately due to Nodejs being a new endeavour for me, it took time to learn the basics, 
-and difficult to accomplish the feats I was striving for with this project in the time I had. 
+and it was difficult to accomplish the feats I was striving for with this project in the time I had. 
 
 I would have liked to have been able to extract and filter queries from the JSON files of data, 
-to enable applicable data to be presented to the user (Ladder, Wins/losses tally, home game winns and away losses e.g.) 
+to enable usable data to be presented to the user (Ladder, Wins/losses tally, home game winns and away losses e.g.) 
 However, my inexperience heald me back. 
 
 I attempted to integrate a docker file, however that is new to me also, and as I work in 
@@ -15,4 +14,16 @@ WSL (Windows Subsystem for Linux) version 1 there was a bit of work to convert m
 I had docker mostly integrated into my project, but once again due to my inexperience with docker 
 I was unsure how to tie it off, so I removed the confusion.
 
+
+The presenter application does:
+- return Status 200.
+- return Latest Git Commit Hash.
+- return Aplication Name and Version.
+- Come with Nodenom for quick and easy updates and auto server restart. 
+
+
+Future Recommendations Section:
+- The addition od Docker 
+- Data extraction form the json data sets 
+- cleaner and more refeined UI/UX for the end user. 
 
